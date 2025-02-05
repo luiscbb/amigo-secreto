@@ -1,6 +1,6 @@
 # 🚀 Challenge Amigo Secreto
 
-![Portada](https://via.placeholder.com/1200x400/87CEEB/FFFFFF?text=Challenge+Amigo+Secreto) <!-- Reemplaza con una imagen real -->
+![Portada](https://revista.cenizas.cl/wp-content/uploads/2021/03/5a46235ec45938541c108957-768x432.jpeg) <!-- Imagen de portada -->
 
 ---
 
@@ -44,33 +44,32 @@ El proyecto se encuentra en **fase de desarrollo**. Actualmente, estamos trabaja
 
 ## 🔗 Acceso al Proyecto
 Puedes acceder al proyecto en el siguiente enlace:  
-[**Ver Proyecto**](https://tudominio.com) <!-- Reemplaza con el enlace real -->
+[**Ver Proyecto**](https://github.com/luiscbb/amigo-secreto) 
 
 ---
 
 ## 💻 Tecnologías Utilizadas
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
-- **Base de Datos**: MongoDB
+- **Frontend**: HTML, CSS, JavaScript.
 - **Herramientas**: Git, Visual Studio Code
 
 ---
 
 ## 👥 Personas Contribuyentes
-- [Juan Pérez](https://github.com/juanperez)
-- [María Gómez](https://github.com/mariagomez)
+- [Luis CB Barrueta](https://github.com/luiscbb)
+
 
 ---
 
 ## 👩‍💻 Personas Desarrolladoras
-- **Líder del Proyecto**: Ana López
-- **Desarrollador Frontend**: Carlos Ruiz
-- **Desarrollador Backend**: Luisa Fernández
+- **Líder del Proyecto**: Luis CB Barrueta
+- **Desarrollador Frontend**: alura LATAM
+- **Desarrollador de la Lógica**: Luis CB Barrueta
+
 
 ---
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la licencia **Baumar Solutions S.A. de C.V.**.
 
 ---
 
