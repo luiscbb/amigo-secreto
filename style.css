@@ -146,15 +146,22 @@ ul {
 .button-draw {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 20px;
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    gap: 10px; /* Espacio entre ícono y texto */
 }
 
 .button-draw img {
-    margin-right: 40px;
+    width: 20px; /* Tamaño de la imagen */
+    height: 20px;
+}
+
+.button-draw i {
+    font-size: 20px; /* Tamaño del ícono de FontAwesome */
 }
 
 .button-draw:hover {
