@@ -14,12 +14,11 @@
 ## 📑 Índice
 1. [Descripción del Proyecto](#-descripción-del-proyecto)
 2. [Estado del Proyecto](#-estado-del-proyecto)
-3. [Demostración de Funciones](#-demostración-de-funciones)
-4. [Acceso al Proyecto](#-acceso-al-proyecto)
-5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-6. [Personas Contribuyentes](#-personas-contribuyentes)
-7. [Personas Desarrolladoras](#-personas-desarrolladoras)
-8. [Licencia](#-licencia)
+5. [Acceso al Proyecto](#-acceso-al-proyecto)
+6. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+7. [Personas Contribuyentes](#-personas-contribuyentes)
+8. [Personas Desarrolladoras](#-personas-desarrolladoras)
+9. [Licencia](#-licencia)
 
 ---
 
@@ -34,11 +33,6 @@ El proyecto se encuentra en **fase de desarrollo**. Actualmente, estamos trabaja
 - [x] Asignación aleatoria de parejas
 - [ ] Notificaciones por correo electrónico
 - [ ] Interfaz de usuario mejorada
-
----
-
-## 🎥 Demostración de Funciones
-![Demo](https://via.placeholder.com/800x400/87CEEB/FFFFFF?text=Demo+Interfaz) <!-- Reemplaza con un GIF o imagen real -->
 
 ---
 
